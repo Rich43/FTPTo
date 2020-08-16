@@ -1,0 +1,11 @@
+modMain = 63, 90, 766, 609, 
+frmConfig = 47, 243, 750, 764, , 58, 81, 761, 602, C
+frmServerList = 44, 162, 749, 685, , 154, 203, 859, 726, C
+RegistryFunctions = 154, 203, 860, 726, C
+clsEncryption = 95, 144, 801, 665, C
+frmAbout = 75, 111, 783, 645, , 59, 59, 767, 582, C
+frmOptions = 147, 238, 896, 828, , 102, 207, 851, 783, C
+frmTransferState = 133, 175, 880, 763, , 83, 205, 832, 795, C
+frmIconDummy = 0, 0, 0, 0, C, 148, 207, 897, 797, C
+frmDownloadingNewVersion = 88, 116, 837, 706, C, 66, 87, 815, 677, C
+frmTransferOK = 132, 174, 881, 764, Z, 110, 145, 859, 735, C

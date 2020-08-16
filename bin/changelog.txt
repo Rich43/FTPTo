@@ -1,0 +1,70 @@
+FTP To 1.0.9.03
+	Added - 10 second Timeout for "Transfer Completed" message.
+
+FTP To 1.0.9.02
+	Added - Installer now contains the MSCOMCTL.OCX runtime.
+	Added - Tooltips.
+	Changed - Minor changes.
+
+FTP To 1.0.9.01
+	Added - Prompt to delete file after cancel transfer.
+	Fixed - Some visual bugs.
+
+FTP To 1.0.9
+	Added - Transfer progress status.
+	Added - Option to choose when to show progress status.
+	Added - New file icon, now contains 16x16, 32x32 and 48x48.
+	Added - Duplicate Server function, so you dont have to enter all the information again.
+	Fixed - Several bug.
+
+FTP To 1.0.8.04
+	Added - New file icon, plus a 16x16 icon for the forms.
+	Changed - In the clipboard URL, spaces are now replaced by %20.
+
+FTP To 1.0.8.03
+	Added - Options form, you can now turn automatic update on or off.
+
+FTP To 1.0.8.02
+	Fixed - Auto-update bug error message.
+
+FTP To 1.0.8
+	Added - Auto-update function.
+	Added - Edit Server name function.
+	Added - Default Sever label, show the server with the 'Always use this server' check enabled.
+	Changed - Improved help file.
+	Changed - Server port set to 21 by default.
+
+FTP To 1.0.7
+	Fixed - Directorys will now be created properly.
+	Added - Copy URL to clipboard function.
+	Changed - If there is one server only, the server list will still be shown.
+	Changed - Server list is now sorted alphabetically.
+
+FTP To 1.0.6
+	Added - Help File
+	Added - Prompt when deleting a server.
+	Fixed - Several bug fixes.
+
+FTP To 1.0.5
+	Fixed - Fixed size of server select dialog.
+	Added - FTP error messages like incorrect login or premission denied will now be displayed.
+	Added - You can now select a default server, so the server list doesn't popup all the time if you try to send a file and you have multiple servers configured.
+	Added - About dialog.
+
+FTP To 1.0.4
+	Added - You can now put files in a folder instead of the root FTP Directory only.
+	Added - Password character for Server Manager text box.
+
+FTP To 1.0.3
+	Added - Passwords encryption for config file.
+
+FTP To 1.0.2
+	Fixed - Uninstall program now removes registration keys('FTP To...' in context menu).
+
+FTP To 1.0.1
+	Fixed - Double click on server selection list works better now.
+	Fixed - Tabindexs
+	Fixed - You are now unable to edit textboxes if there are no servers in the list.
+
+FTP To 1.0
+	Initial version

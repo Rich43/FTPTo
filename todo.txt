@@ -1,0 +1,5 @@
+bestands beschrijving ftpto
+mappen transferen
+3x reconnecten na fail
+bug met bubbel fail message
+auto update handiger maken
